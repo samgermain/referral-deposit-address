@@ -1,0 +1,970 @@
+{
+    "aax": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "TK1DfHrcY3g7tfkYXTSsXCVvz4UgNG6NQH",
+            "bep20": "0xda9813d990ee8f534ee9ec4d983ab1c552cd7a9e",
+            "erc20": "0xda9813d990ee8f534ee9ec4d983ab1c552cd7a9e"
+        }
+    },
+    "ascendex": {
+        "ltc": "LSGatzDPhs6jF3tf6WuKPLtHUvCEpmNvQa",
+        "usdt": {
+            "trc20": "TTvKTE2nURXP9xfFC5xDFnR15HsQepe44H",
+            "bep20": "",
+            "erc20": "0xbaf5d3e0ef4a5f60ab6b1c47b02627403da0bebf"
+        }
+    },
+    "bequant": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bibox": {
+        "ltc": "",
+        "usdt": {
+            "bep20": "0xf1458ba28073b056e9666c4b2bbbc60451cda0fd",
+            "trc20": "THnT88fivBG29Lgqps93SMTE8tqt2y4e9V",
+            "erc20": ""
+        }
+    },
+    "bigone": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "binance": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "binancecoinm": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "binanceus": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "binanceusdm": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bit2c": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitbank": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitbay": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitbns": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitcoincom": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitfinex": {
+        "ltc": "MFWTBMBHYHxka1Wo7Rvc7ze2NozJTq5UrC",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitfinex2": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitflyer": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitforex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitget": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bithumb": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitmart": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitmex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitopro": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitpanda": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitrue": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitso": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitstamp": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bitstamp1": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bittrex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": "0xdbd7047e566e3c9d1c9c5fae3861abeb4a64f081"
+        }
+    },
+    "bitvavo": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bkex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bl3p": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "blockchaincom": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "btcalpha": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "btcbox": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "btcmarkets": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "btctradeua": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "btcturk": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "buda": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bw": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bybit": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "bytetrade": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "cdax": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "cex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "coinbase": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "coinbaseprime": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "coinbasepro": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "coincheck": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "coinex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "coinfalcon": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "coinflex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "coinmate": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "coinone": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "coinspot": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "crex24": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "cryptocom": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "currencycom": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "delta": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "deribit": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "digifinex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "eqonex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "exmo": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "flowbtc": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "fmfwio": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "ftx": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "ftxus": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "gateio": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "gemini": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "hitbtc": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "hitbtc3": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "hollaex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "huobi": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "huobijp": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "huobipro": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "idex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "independentreserve": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "indodax": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "itbit": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "kraken": {
+        "ltc": "LTXGEcGGAAEmVWHaobnY8dGmS4UkNLSk34",
+        "usdt": {
+            "trc20": "TNiVJ3H4zGLSgyXXpKgAF1Xp2K4QJZ7tt9",
+            "bep20": "",
+            "erc20": "0xc3361260e5ccefeb661d52d3e5fa2f84f9e0893d"
+        }
+    },
+    "kucoin": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "kucoinfutures": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "kuna": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "latoken": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "lbank": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "lbank2": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "liquid": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "luno": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "lykke": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "mercado": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "mexc": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "mexc3": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "ndax": {
+        "ltc": "LSJFsFFrikWnpEaRCmsLoN7jJQrGcTqnpg",
+        "usdt": {
+            "trc20": "",
+            "bep20": "0x5428EcEB1F7Ee058f64158589e27D087149230CB",
+            "erc20": "0x5428EcEB1F7Ee058f64158589e27D087149230CB"
+        }
+    },
+    "novadax": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "oceanex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "okcoin": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "okex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "okex5": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "okx": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "paymium": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "phemex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "poloniex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "probit": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "qtrade": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "ripio": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "stex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "therock": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "tidebit": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "tidex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "timex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "upbit": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "vcc": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "wavesexchange": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "wazirx": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "whitebit": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "woo": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "xena": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "yobit": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "zaif": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "zb": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "zipmex": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    },
+    "zonda": {
+        "ltc": "",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        }
+    }
+}
