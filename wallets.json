@@ -40,11 +40,21 @@
         }
     },
     "binance": {
-        "ltc": "",
+        "ltc": "LhP1kGvZwTr4XXvqmmavNMfNxNE7kHSpdT",
         "usdt": {
             "trc20": "",
             "bep20": "",
             "erc20": ""
+        },
+        "usdc": {
+            "bep20": "0xa4d50e44877cbf7fe983420967d27a783807a79f",
+            "erc20": "0xa4d50e44877cbf7fe983420967d27a783807a79f",
+            "solana": "ESwHRrY66srALX311NsmQDoRRgfUFCTfkeb6i91Q77Yj",
+            "trc20": "TEY6qjnKDyyq5jDc3DJizWLCdUySrpQ4yp",
+            "xlm": {
+                "address": "",
+                "memo": ""
+            }
         }
     },
     "binancecoinm": {
@@ -144,11 +154,17 @@
         }
     },
     "bitget": {
-        "ltc": "",
+        "ltc": "Ld4qAQtq8NQr8kNcSZ5N52FKc7h6QK9vVH",
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "TFiZ4AtffQJiZ4rcg2ovzm1iV8dJudwuBn",
+            "bep20": "0x207451fc93101b104cb92129bb71f8d731bdbbba",
+            "erc20": "0x207451fc93101b104cb92129bb71f8d731bdbbba"
+        },
+        "usdc": {
+            "bep20": "0x207451fc93101b104cb92129bb71f8d731bdbbba",
+            "erc20": "0x207451fc93101b104cb92129bb71f8d731bdbbba",
+            "sol": "2J83WkTaxB7nfa6QAmt84di4127AWRkLgk9nniYKUkhH",
+            "trc20": "TFiZ4AtffQJiZ4rcg2ovzm1iV8dJudwuBn"
         }
     },
     "bithumb": {
@@ -160,11 +176,16 @@
         }
     },
     "bitmart": {
-        "ltc": "",
+        "ltc": "Lc5L4CN3up4vYKa8sTYLPNvEWtPUUrNzYJ",
+        "usdc": {
+            "trc20": "TL5yNkocTqC6LsT7bzqxMxu2LykdUuRU55",
+            "sol": "44vNZdutGhRi3Xq1fJLNxWXRdxszgZ4KsyUPV858kuUo",
+            "erc20": "0x99B5EEc2C520f86F0F62F05820d28D05D36EccCf"
+        },
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "TL5yNkocTqC6LsT7bzqxMxu2LykdUuRU55",
+            "bep20": "0x99B5EEc2C520f86F0F62F05820d28D05D36EccCf",
+            "erc20": "0x99B5EEc2C520f86F0F62F05820d28D05D36EccCf"
         }
     },
     "bitmex": {
@@ -208,19 +229,12 @@
         }
     },
     "bitstamp": {
-        "ltc": "",
+        "ltc": "MJrxioBt69yRBLR75oNdi8hgoY7BZ2UJBT",
+        "usdc": {
+            "erc20": "0x60546c83b059b9421d0110bd75e44e78c344b4b6",
+        },
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
-        }
-    },
-    "bitstamp1": {
-        "ltc": "",
-        "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "erc20": "0x60546c83b059b9421d0110bd75e44e78c344b4b6"
         }
     },
     "bittrex": {
@@ -264,11 +278,12 @@
         }
     },
     "btcalpha": {
-        "ltc": "",
+        "ltc": "MUWeqMzjEqMmjVqHNKHWLLBj4t3emLUeQ4",
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "TTiC9vRBVKGuANqewvgMCm4PAGB4vDn2eH"
+        },
+        "usdc": {
+            "sol": "D9YzmiNyW6noANxpYxSmtJKvdzKrfL6LzJTf4EEXhV8S"
         }
     },
     "btcbox": {
@@ -384,11 +399,15 @@
         }
     },
     "coinex": {
-        "ltc": "",
+        "ltc": "MLEcVNf2CfthG9tgpRdCCXXiPTmYua8Kmu",
+        "usdc": {
+            "erc20": "0xc0970c06237eba95eb5e60d232139b96917a591b",
+            "trc20": "TP9Roh2Xng2KmZrpRyUXsuaX8iozW3XoBV"
+        },
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "TP9Roh2Xng2KmZrpRyUXsuaX8iozW3XoBV",
+            "bep20": "0xc0970c06237eba95eb5e60d232139b96917a591b",
+            "erc20": "0xc0970c06237eba95eb5e60d232139b96917a591b"
         }
     },
     "coinfalcon": {
@@ -448,11 +467,14 @@
         }
     },
     "currencycom": {
-        "ltc": "",
+        "ltc": "LNZaE3Bk4cCUQF1XaSW3iU2RNnvwudPwjK",
+        "usdc": {
+            "erc20": "0x70a6dd706db5d74f0c512966c25c43c2ba47363a"
+        },
         "usdt": {
             "trc20": "",
             "bep20": "",
-            "erc20": ""
+            "erc20": "0x70a6dd706db5d74f0c512966c25c43c2ba47363a"
         }
     },
     "delta": {
@@ -512,19 +534,16 @@
         }
     },
     "ftx": {
-        "ltc": "",
+        "ltc": "MEALjk6hvAZyWWNLift5FeTBshCYfEfwme",
+        "usdc": {
+            "erc20": "0x9aF9ED014f3E5185e86878C8AeaEbD928abBedfa",
+            "sol": "62hQ481duMpwoxcbMRmfjsVWvqd5bX5JdCEPFb3BnGEq",
+            "trc20": "TKMWwr9R3HGTLc9NusjiozVsGhJpqFZEbG"
+        },
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
-        }
-    },
-    "ftxus": {
-        "ltc": "",
-        "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "TKMWwr9R3HGTLc9NusjiozVsGhJpqFZEbG",
+            "bep20": "0x9aF9ED014f3E5185e86878C8AeaEbD928abBedfa",
+            "erc20": "0x9aF9ED014f3E5185e86878C8AeaEbD928abBedfa"
         }
     },
     "gateio": {
@@ -544,20 +563,7 @@
         }
     },
     "hitbtc": {
-        "ltc": "",
-        "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
-        }
-    },
-    "hitbtc3": {
-        "ltc": "",
-        "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
-        }
+        "ltc": "LQs1i1gpBpjcJgdRQiABrktvPK13vBeYBK"  
     },
     "hollaex": {
         "ltc": "",
@@ -664,19 +670,11 @@
         }
     },
     "lbank": {
-        "ltc": "",
+        "ltc": "LcA9AATuHv4bHGNnJjswXvsbvWs7sLqhaM",
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
-        }
-    },
-    "lbank2": {
-        "ltc": "",
-        "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "TNQKpU9epdcDhMuDd2LBq8RHp3Diz1cVfH",
+            "bep20": "0x390b5c8ac3afa8f42d163c4dc9a7b39104e94936",
+            "erc20": "0x390b5c8ac3afa8f42d163c4dc9a7b39104e94936"
         }
     },
     "liquid": {
@@ -712,11 +710,16 @@
         }
     },
     "mexc": {
-        "ltc": "",
+        "ltc": "ltc1qv3zd2jxwkhpyc78ll5ts0tck536e70g7hfrptc",
+        "usdc": {
+            "erc20": "0xf6cd3a9c28231d1eee4f5942c833daaeb1d02081",
+            "trc20": "TMmeAVLT7KMTy9RsiPM6WuWfNPTFyb8qvp",
+            "sol": "4KYD8YLkApnK2nxyUM32o1YWCPi1w59AwsFAo9BZnpk1"
+        },
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "TMmeAVLT7KMTy9RsiPM6WuWfNPTFyb8qvp",
+            "bep20": "0x0d48003e0c27c5de62b97c9b4cdb31fdd29da619",
+            "erc20": "0xf6cd3a9c28231d1eee4f5942c833daaeb1d02081"
         }
     },
     "mexc3": {
@@ -725,6 +728,22 @@
             "trc20": "",
             "bep20": "",
             "erc20": ""
+        }
+    },
+    "netwon": {
+        "ltc": "ltc1q2np7amty0pel46tlyngdmejrentxedhe5mz7kr",
+        "usdt": {
+            "trc20": "",
+            "bep20": "",
+            "erc20": ""
+        },
+        "usdc": {
+            "erc20": "0x7ADFdC6de95F8B39f545D9F3c2C1a48b0F6951B9",
+            "xlm": {
+                "address": "GCG2UNDGXLUN4DTB7STFHGCN47R7BC3EN5ZJKY35JWUSZ6QHJLQPZHT6",
+                "memo": "3375940934"
+            },
+            "sol": "8aUrXgmGstxg2RA3DFQzeEcjpdTRJ6tvAk3nz9wwUkvP"
         }
     },
     "ndax": {
@@ -792,27 +811,35 @@
         }
     },
     "phemex": {
-        "ltc": "",
+        "ltc": "ltc1q2033agcm0gpf6fa54s7n6yjd3ns999372jzm8w",
+        "usdc": {
+            "trc20": "TCqaHohGcBPqKqejWBbv5u4gXURNUsCASK",
+            "bep20": "0x66acfdc2c9ad77ec16cf8d7152dd23df0d944730",
+            "sol": "6wR4T7gjbmnkj8kR1Y6XGEX4Sz5iFyyjy4y95qhxpraB"
+        },
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "TCqaHohGcBPqKqejWBbv5u4gXURNUsCASK",
+            "bep20": "0x66acfdc2c9ad77ec16cf8d7152dd23df0d944730",
+            "erc20": "0x8fc195cabe997ac0c134b8533c3830bb728dc443"
         }
     },
     "poloniex": {
-        "ltc": "",
+        "ltc": "LZ6fnqnXcDPuZ6HnYWAmPZtmbj29He8Eb5",
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "TUrByWNCeWscMB2vc1mLMMMRcr2xL4wuRH",
+            "bep20": "0x08b0523bc2209b85141206ba8ec9d35993ab493c",
+            "erc20": "0xa1aa7d526c082bec0649edb5499832c08125d30d"
         }
     },
     "probit": {
-        "ltc": "",
+        "ltc": "LXAR86CqobnmWEW2RYm6EVyH5MvGknEUUv",
+        "usdc": {
+            "erc20": "0x2dc6ec63b6548b2fe0944452b17e318db6e68c92"
+        },
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "TF9aabsajhzrmjvjMMboMihaD21UGJMRUw",
+            "bep20": "0xeeb56572bfafea0b43bc26938fb57e335be2ac5f",
+            "erc20": "0x2dc6ec63b6548b2fe0944452b17e318db6e68c92"
         }
     },
     "qtrade": {
@@ -864,11 +891,16 @@
         }
     },
     "timex": {
-        "ltc": "",
+        "ltc": "MUVNm6rzSJ3VZirqVttzM6oTvDVUfmtpfw",
+        "usdc": {
+            "sol": "",
+            "bep20": "0x13b8fef50d3cb9108bbbe2d780348e1946cd787c",
+            "erc20": "0x13b8fef50d3cb9108bbbe2d780348e1946cd787c"
+        },
         "usdt": {
             "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "bep20": "0x13b8fef50d3cb9108bbbe2d780348e1946cd787c",
+            "erc20": "0x13b8fef50d3cb9108bbbe2d780348e1946cd787c"
         }
     },
     "upbit": {
@@ -888,11 +920,16 @@
         }
     },
     "wavesexchange": {
-        "ltc": "",
+        "ltc": "ltc1q2p4vvcg5363wtslgs256fvk0hhrp9jqhk3yytd",
         "usdt": {
             "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "bep20": "0x720F4C4af06E5dA6B661060f9503526C6B550579",
+            "erc20": "0x720F4C4af06E5dA6B661060f9503526C6B550579"
+        },
+        "usdc": {
+            "sol": "",
+            "bep20": "0x720F4C4af06E5dA6B661060f9503526C6B550579",
+            "erc20": "0x720F4C4af06E5dA6B661060f9503526C6B550579"
         }
     },
     "wazirx": {
@@ -912,19 +949,16 @@
         }
     },
     "woo": {
-        "ltc": "",
+        "ltc": "LKZ1EJnLERFcwmSwzNZwrJShLVqbLYJPdw",
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
-        }
-    },
-    "xena": {
-        "ltc": "",
-        "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "THg62QGYCNX9fYP2y2SMsskAyTuCmUfRji",
+            "bep20": "0xb2f0ae8c1aaf7c355ab6d9c0c157d11bc2ab14fd",
+            "erc20": "0xb2f0ae8c1aaf7c355ab6d9c0c157d11bc2ab14fd"
+        },
+        "usdc": {
+            "sol": "2beyebt4oYDBdEgyJ7sKtWdUdsTH6m1vXJcsyt1STHNT",
+            "bep20": "0xb2f0ae8c1aaf7c355ab6d9c0c157d11bc2ab14fd",
+            "erc20": "0xb2f0ae8c1aaf7c355ab6d9c0c157d11bc2ab14fd"
         }
     },
     "yobit": {
@@ -944,11 +978,16 @@
         }
     },
     "zb": {
-        "ltc": "",
-        "usdt": {
-            "trc20": "",
+        "ltc": "ltc1qv4amw969kj5947uupwljgs3g74tej5lzq3eweu",
+        "usdc": {
+            "trc20": "TN2fDk5rzMNDhAjAx2Ky35UEDNfjBs8bL3",
             "bep20": "",
-            "erc20": ""
+            "erc20": "0x1a38fb41d9f8ba48af9a79a04479ce1a05bfc408"
+        },
+        "usdt": {
+            "trc20": "TN2fDk5rzMNDhAjAx2Ky35UEDNfjBs8bL3",
+            "bep20": "",
+            "erc20": "0x1a38fb41d9f8ba48af9a79a04479ce1a05bfc408"
         }
     },
     "zipmex": {
