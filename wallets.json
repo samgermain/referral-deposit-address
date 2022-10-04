@@ -638,19 +638,16 @@
         }
     },
     "kucoin": {
-        "ltc": "",
+        "ltc": "MF5BdEbLmBpAdpmAqgEkVVQp94ULA2WASQ",
+        "usdc": {
+            "eth": "0x61ed25a84eb8fd2557d3bf709afd299ac7bc60dc",
+            "sol": "BUXJqXUzSANJy8SzwsuwjcCwWAsYaJfDd49wMLRbtSAo",
+            "trx": "TN8DFqDVYqEK6EfBSLsEszGC38Ju4cSnXt"
+        },
         "usdt": {
-            "trc20": "",
+            "trc20": "TN8DFqDVYqEK6EfBSLsEszGC38Ju4cSnXt",
             "bep20": "",
-            "erc20": ""
-        }
-    },
-    "kucoinfutures": {
-        "ltc": "",
-        "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "erc20": "0x5ea01e4a66b375c068780fc571939bdd421ed885"
         }
     },
     "kuna": {
@@ -773,7 +770,7 @@
     "okcoin": {
         "ltc": "",
         "usdt": {
-            "trc20": "",
+            "trc20": "TYVVffJh2ip2LjPNNRbcPKmu3cLEgeNSQD",
             "bep20": "",
             "erc20": ""
         }
