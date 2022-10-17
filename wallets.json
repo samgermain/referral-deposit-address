@@ -41,10 +41,11 @@
     },
     "binance": {
         "ltc": "LhP1kGvZwTr4XXvqmmavNMfNxNE7kHSpdT",
+        "sol": "ESwHRrY66srALX311NsmQDoRRgfUFCTfkeb6i91Q77Yj",
         "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
+            "trc20": "TEY6qjnKDyyq5jDc3DJizWLCdUySrpQ4yp",
+            "bep20": "0xa4d50e44877cbf7fe983420967d27a783807a79f",
+            "erc20": "0xa4d50e44877cbf7fe983420967d27a783807a79f"
         },
         "usdc": {
             "bep20": "0xa4d50e44877cbf7fe983420967d27a783807a79f",
@@ -340,6 +341,14 @@
             "trc20": "",
             "bep20": "",
             "erc20": ""
+        }
+    },
+    "bytex": {
+        "ltc": "LZDXEEB55eFBkGa3yEF3GmZqzSffKrSBLB",
+        "usdc": {
+            "bep20": "0xe0d14ebe09df082b65847d82cdc0de56b4f96d3f",
+            "sol": "TRZWoxYLtqvuc5bTMxMHKsAzCBu1yCzrw8",
+            "trc20": "TRZWoxYLtqvuc5bTMxMHKsAzCBu1yCzrw8"
         }
     },
     "bytetrade": {
@@ -717,14 +726,6 @@
             "trc20": "TMmeAVLT7KMTy9RsiPM6WuWfNPTFyb8qvp",
             "bep20": "0x0d48003e0c27c5de62b97c9b4cdb31fdd29da619",
             "erc20": "0xf6cd3a9c28231d1eee4f5942c833daaeb1d02081"
-        }
-    },
-    "mexc3": {
-        "ltc": "",
-        "usdt": {
-            "trc20": "",
-            "bep20": "",
-            "erc20": ""
         }
     },
     "netwon": {
